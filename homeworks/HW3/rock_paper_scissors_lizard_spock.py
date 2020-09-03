@@ -1,5 +1,4 @@
-# CSCI 1133, Lab Section 007, HW 3, Problem B REDO
-# Namita Nair, nair0025
+# Namita Nair, hw3b
 
 def play_game(p1list, p2list):
     if p1list == 'R':
