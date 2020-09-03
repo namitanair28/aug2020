@@ -1,5 +1,4 @@
-# Namita Nair, nair0025, Lab section 007
-# Homework 4
+# Namita Nair, hw4
 
 # Problem 1
 #==========================================
