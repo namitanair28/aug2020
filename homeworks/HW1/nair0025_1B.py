@@ -1,5 +1,4 @@
-# CSCI1133, Lab Section 007, HW 1, Problem 1B
-# Namita Nair, nair0025
+# Namita Nair, hw1b
 
 print('This program converts fahrenheit temperatures to celsius and kelvin\n')
 Tf = float(input('Please enter the temperature in Fahrenheit: '))
