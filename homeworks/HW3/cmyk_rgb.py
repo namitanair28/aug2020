@@ -1,5 +1,4 @@
-# CSCI 1133, Lab Section 007, HW 3, Problem A
-# Namita Nair, nair0025
+# Namita Nair, hw3a
 
 def CMYK_to_RGB(C, M, Y, K):
     RGBlist = []
