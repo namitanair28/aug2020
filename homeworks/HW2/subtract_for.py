@@ -1,5 +1,4 @@
-# CSCI 1133, Lab Section 007, HW 1, Problem A2
-# Namita Nair, nair0025
+# Namita Nair, hw2
 
 def subtractFor(total, num, times):
     if times >= 0:
