@@ -1,5 +1,4 @@
-# CSCI 1133, Lab Section 007, HW 1, Problem A1
-# Namita Nair, nair0025
+# Namita Nair, hw2a1
 
 def subtractWhile(total, num, times):
     while times >= 1:
