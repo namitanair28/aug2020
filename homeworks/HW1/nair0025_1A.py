@@ -1,5 +1,4 @@
-# CSCI 1133, Lab Section 007, HW 1, Problem 1A
-# Namita Nair, nair0025
+# Namita Nair, hw1
 
 import math
 incidentAngle = float (input("Input the incident angle in degrees: "))
