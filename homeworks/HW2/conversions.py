@@ -1,5 +1,4 @@
-# CSCI 1133, Lab Section 007, HW 1, Problem B
-# Namita Nair, nair0025
+# Namita Nair, hw2b
 
 def convert_pounds_to_kg(weight):
     weight = float(weight) * 0.454
