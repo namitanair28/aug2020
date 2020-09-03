@@ -1,5 +1,4 @@
-# CSCI 1133, Lab Section 007, HW 1, Problem C
-# Namita Nair, nair0025
+# Namita Nair, hw2c
 
 def forecast():
     print("Answer each question with a 'yes' or a 'no'.")
