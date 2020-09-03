@@ -1,5 +1,4 @@
-# Namita Nair, nair0025, Lab section 007
-# Homework 5
+# Namita Nair, hw5
 
 #==========================================
 # Name: cnt_occur
