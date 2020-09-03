@@ -1,5 +1,4 @@
-#HW 6, Lab Section 007
-#Namita Nair, nair0025
+#Namita Nair, hw6
 
 #==========================================
 # Name: sameKeys
